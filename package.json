@@ -1,0 +1,19 @@
+{
+  "name": "fira-code",
+  "version": "1.0.0",
+  "description": "<img src=\"https://dl.dropboxusercontent.com/u/561580/imgs/fira_code_logo.svg\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlajtos/FiraCode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlajtos/FiraCode/issues"
+  },
+  "homepage": "https://github.com/mlajtos/FiraCode#readme"
+}
